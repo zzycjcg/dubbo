@@ -26,7 +26,7 @@
 	<name>${project.artifactId}</name>
 	<description>The admin module of dubbo project</description>
 	<properties>
-		<wtpversion>1.5</wtpversion>
+		<wtpversion>1.7</wtpversion>
 		<wtpContextName>/</wtpContextName>
 		<eclipse.useProjectReferences>false</eclipse.useProjectReferences>
 		<skip_maven_deploy>false</skip_maven_deploy>
@@ -40,10 +40,6 @@
 		<dependency>
 			<groupId>com.alibaba.citrus</groupId>
 			<artifactId>citrus-webx-all</artifactId>
-		</dependency>
-		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring</artifactId>
 		</dependency>
 		<dependency>
 			<groupId>org.javassist</groupId>

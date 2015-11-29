@@ -81,7 +81,7 @@
 	</profiles>
 	<properties>
 		<!-- Common libs -->
-		<spring_version>2.5.6.SEC03</spring_version>
+		<spring_version>3.2.13.RELEASE</spring_version>
 		<javassist_version>3.15.0-GA</javassist_version>
 		<netty_version>3.2.5.Final</netty_version>
 		<mina_version>1.1.7</mina_version>
@@ -92,7 +92,7 @@
 		<fastjson_version>1.1.39</fastjson_version>
 		<bsf_version>3.1</bsf_version>
 		<sorcerer_version>0.8</sorcerer_version>
-		<zookeeper_version>3.3.3</zookeeper_version>
+		<zookeeper_version>3.4.6</zookeeper_version>
 		<zkclient_version>0.1</zkclient_version>
 		<curator_version>1.1.16</curator_version>
 		<jedis_version>2.1.0</jedis_version>
